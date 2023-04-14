@@ -15,3 +15,4 @@
 ### ETC
 
 - [Next.js Blog > Layouts RFC](https://nextjs.org/blog/layouts-rfc)
+- [Next.js Docs > Dynamic Routes > Optional catch all routes](https://nextjs.org/docs/routing/dynamic-routes#optional-catch-all-routes)
