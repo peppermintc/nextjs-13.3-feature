@@ -15,6 +15,7 @@
 ### Next.js RFC
 
 - [Next.js Blog > Layouts RFC](https://nextjs.org/blog/layouts-rfc)
+- [Introducing Zero-Bundle-Size React Server Components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
 
 ### Next.js Docs
 
