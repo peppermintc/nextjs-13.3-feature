@@ -5,4 +5,5 @@
 - [Next.js](nextjs/README.md)
 - [Typescript](typescript/README.md)
 - [React](react/README.md)
+- [SWR](swr/README.md)
 - [Tools](tools/README.md)
