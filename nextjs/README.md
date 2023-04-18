@@ -1,6 +1,6 @@
-### Next.js Update Reviews
+### Next.js Updates
 
-- [Next.js 13.0](v13.0/README.md)
+- [Next.js 13.0](https://nextjs.org/blog/next-13)
 - Next.js 13.1
 - Next.js 13.2
 - Next.js 13.3
