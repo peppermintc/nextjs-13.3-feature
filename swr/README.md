@@ -4,6 +4,7 @@
 - [Passing multiple arguments to fetcher function](https://swr.vercel.app/docs/arguments#multiple-arguments)
 - [Passing object to fetcher function](https://swr.vercel.app/docs/revalidation#disable-automatic-revalidations)
 - [Disable automatic revalidations](https://swr.vercel.app/docs/revalidation#disable-automatic-revalidations)
+- [Optimistic updates](https://swr.vercel.app/docs/mutation#optimistic-updates)
 
 ### Video tips
 
