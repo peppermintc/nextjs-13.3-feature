@@ -5,6 +5,7 @@
 - [Passing object to fetcher function](https://swr.vercel.app/docs/revalidation#disable-automatic-revalidations)
 - [Disable automatic revalidations](https://swr.vercel.app/docs/revalidation#disable-automatic-revalidations)
 - [Optimistic updates](https://swr.vercel.app/docs/mutation#optimistic-updates)
+- [Update cache after mutation](https://swr.vercel.app/docs/mutation#update-cache-after-mutation)
 
 ### Video tips
 
