@@ -6,6 +6,7 @@
 - [Disable automatic revalidations](https://swr.vercel.app/docs/revalidation#disable-automatic-revalidations)
 - [Optimistic updates](https://swr.vercel.app/docs/mutation#optimistic-updates)
 - [Update cache after mutation](https://swr.vercel.app/docs/mutation#update-cache-after-mutation)
+- [Status code and Error object](https://swr.vercel.app/docs/error-handling#status-code-and-error-object)
 
 ### Video tips
 
