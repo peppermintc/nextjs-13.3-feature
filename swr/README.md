@@ -7,6 +7,7 @@
 - [Optimistic updates](https://swr.vercel.app/docs/mutation#optimistic-updates)
 - [Update cache after mutation](https://swr.vercel.app/docs/mutation#update-cache-after-mutation)
 - [Status code and Error object](https://swr.vercel.app/docs/error-handling#status-code-and-error-object)
+- [Dependent fetching](https://swr.vercel.app/docs/conditional-fetching#dependent)
 
 ### Video tips
 
