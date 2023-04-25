@@ -10,6 +10,7 @@
 - [Dependent fetching](https://swr.vercel.app/docs/conditional-fetching#dependent)
 - [Pagination UX tip with useSWR](./pagination-ux-tip.md)
 - [SWR options parameter typing with Typescript tip](./options-typing-tip.md)
+- [Using SWR with Suspense guide](https://swr.vercel.app/docs/suspense)
 
 ### Video tips
 
