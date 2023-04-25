@@ -9,6 +9,7 @@
 - [Status code and Error object](https://swr.vercel.app/docs/error-handling#status-code-and-error-object)
 - [Dependent fetching](https://swr.vercel.app/docs/conditional-fetching#dependent)
 - [Pagination UX tip with useSWR](./pagination-ux-tip.md)
+- [SWR options parameter typing with Typescript tip](./options-typing-tip.md)
 
 ### Video tips
 
