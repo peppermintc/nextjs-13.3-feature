@@ -8,3 +8,7 @@
 - [useRef > Get ref of custom react component](https://react.dev/reference/react/useRef#i-cant-get-a-ref-to-a-custom-component)
 - [useState > Avoid recreating the initial state](https://react.dev/reference/react/useState#avoiding-recreating-the-initial-state)
 - [useState > Resetting state with a key](https://react.dev/reference/react/useState#resetting-state-with-a-key)
+
+### Concepts
+
+- [State update > Automatic batchiing](https://react.dev/blog/2022/03/08/react-18-upgrade-guide#automatic-batching)
