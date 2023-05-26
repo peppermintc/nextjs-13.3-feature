@@ -11,6 +11,10 @@
 
 - [fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify)
 
+### Typescript Module
+
+- [ts-reset](https://github.com/total-typescript/ts-reset)
+
 ### React Libraries
 
 - [react-joyride](https://docs.react-joyride.com/)
