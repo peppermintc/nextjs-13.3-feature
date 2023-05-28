@@ -9,6 +9,7 @@
 - [useState > Avoid recreating the initial state](https://react.dev/reference/react/useState#avoiding-recreating-the-initial-state)
 - [useState > Resetting state with a key](https://react.dev/reference/react/useState#resetting-state-with-a-key)
 - [flushSync > Update DOM synchronously](https://react.dev/reference/react-dom/flushSync#)
+- [Exposing a custom ref handle to the parent component](https://react.dev/reference/react/useImperativeHandle#exposing-a-custom-ref-handle-to-the-parent-component)
 
 ### Concepts
 
