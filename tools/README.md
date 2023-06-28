@@ -7,6 +7,10 @@
 
 - [Nextra](https://nextra.site/)
 
+### Documentation Framework
+
+- [Code Hike](https://codehike.org/)
+
 ### Javascript Module
 
 - [fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify)
@@ -22,3 +26,7 @@
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 - [swiperjs/react](https://swiperjs.com/react)
 - [react-spring](https://www.react-spring.dev/)
+
+### Diagram
+
+-[Mermaid](https://mermaid.live/)
