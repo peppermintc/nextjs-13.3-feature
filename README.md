@@ -9,4 +9,4 @@
 - [Tools](tools/README.md)
 - [CSS](css/README.md)
 
-- [Monorepo Explained](https://monorepo.tools/)https://monorepo.tools/
+- [Monorepo Explained](https://monorepo.tools/)
